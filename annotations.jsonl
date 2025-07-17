@@ -1,3 +1,4 @@
 ```json
-{"text": "It seems that the problem may have been caused by overthinking.", "spans": [{"start": 0, "end": 9, "label": "HEDGE"}, {"start": 30, "end": 60, "label": "PASSIVE"}]}
-{"text": "The results were interpreted cautiously.", "spans": [{"start": 4, "end": 28, "label": "PASSIVE"}, {"start": 29, "end": 40, "label": "HEDGE"}]}
+{"text": "It seems that the experiment was flawed.", "labels": [[0, 9, "HEDGE"], [31, 42, "PASSIVE"]]}
+{"text": "The results might be inaccurate.", "labels": [[13, 18, "HEDGE"]]}
+{"text": "The report was written by the team.", "labels": [[11, 23, "PASSIVE"]]}

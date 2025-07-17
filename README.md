@@ -8,7 +8,7 @@ The annotations will be used for fine-tuning or rule-based evaluation in spaCy.
 ## File Structure
 
 - `annotations.jsonl`: file with sample annotations in **Doccano’s JSONL format**
-- `process_annotations.py`: script to load and visualize annotations using spaCy
+- `convert_doccano_to_spacy.py`: script to convert to spaCy format and visualize results
 
 ## Installation
 

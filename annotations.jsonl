@@ -1,4 +1,3 @@
-```json
 {"text": "It seems that the experiment was flawed.", "labels": [[0, 9, "HEDGE"], [31, 42, "PASSIVE"]]}
 {"text": "The results might be inaccurate.", "labels": [[13, 18, "HEDGE"]]}
 {"text": "The report was written by the team.", "labels": [[11, 23, "PASSIVE"]]}
